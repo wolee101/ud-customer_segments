@@ -12,7 +12,9 @@ Identifying Customer Segment (Udacity Data Science Course project).
 
 **Overview**
 
-The goal of this project is to apply unsupervised learning techniques to identify different segments of the population that form the core customer base for a mail-order sales company in Germany and examine which segments are relatively popular or unpopular with the company.
+The goal of this project is to apply unsupervised learning techniques to identify different segments of the population that form the core customer base for a mail-order sales company in Germany and examine which segments are relatively popular or unpopular with the company. These segments are intended to be used to direct marketing campaigns towards audiences that will have the highest expected rate of returns. 
+
+To achieve this goal, the demographics data of general population in Germany were cleaned, scaled, and transformed with PCA (Principal Component Analysis). K-means clustering were performed on the PCA-transformed data and the numnber of optimal clusters were identified. The customer data were mapped on to those clusters and a comparison was made to compare customer Data to demographics data.
 
 **Dataset used:**
 
@@ -23,7 +25,7 @@ The data was provided by Udacity partners at Bertelsmann Arvato Analytics.
 
 
 *   Descriptive analyses to examine customer characteristics
-*   K-means Clustering Analysis and PCA (Principal Component Analysis)
+*   K-means Clustering Analysis and PCA 
 
 ## 
 **Dependencies and Installation**
