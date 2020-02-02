@@ -14,11 +14,11 @@ Identifying Customer Segment (Udacity Data Science Course project).
 
 The goal of this project is to apply unsupervised learning techniques to identify different segments of the population that form the core customer base for a mail-order sales company in Germany and examine which segments are relatively popular or unpopular with the company.
 
-**Dataset used: **
+**Dataset used:**
 
 The data was provided by Udacity partners at Bertelsmann Arvato Analytics.
 
-**Analyses used: **
+**Analyses used:**
 
 
 
