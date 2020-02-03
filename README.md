@@ -4,7 +4,7 @@ README.md - Customer segments identification
 ## 
 **Project Title**
 
-Identifying Customer Segment (Udacity Data Science Course project). 
+Identifying Customer Segment (Udacity Data Science Course project) 
 
 
 ## 
