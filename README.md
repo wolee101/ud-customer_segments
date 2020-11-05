@@ -1,14 +1,12 @@
 README.md - Customer segments identification
 
 
-## 
-**Project Title**
+## **Project Title**
 
 Identifying Customer Segment (Udacity Data Science Course project) 
 
 
-## 
-**Description**
+## **Description**
 
 **Overview**
 
@@ -27,8 +25,7 @@ The data was provided by Udacity partners at Bertelsmann Arvato Analytics.
 *   Descriptive analyses to examine customer characteristics
 *   K-means Clustering Analysis and PCA 
 
-## 
-**Dependencies and Installation**
+## **Dependencies and Installation**
 
 
 You need to install the following Python and visualization packages and libraries:
